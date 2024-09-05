@@ -1,0 +1,14 @@
+C:\Users\Cliente\source\repos\Redes\Redes\bin\Debug\net8.0\Redes.exe
+C:\Users\Cliente\source\repos\Redes\Redes\bin\Debug\net8.0\Redes.deps.json
+C:\Users\Cliente\source\repos\Redes\Redes\bin\Debug\net8.0\Redes.runtimeconfig.json
+C:\Users\Cliente\source\repos\Redes\Redes\bin\Debug\net8.0\Redes.dll
+C:\Users\Cliente\source\repos\Redes\Redes\bin\Debug\net8.0\Redes.pdb
+C:\Users\Cliente\source\repos\Redes\Redes\obj\Debug\net8.0\Redes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\source\repos\Redes\Redes\obj\Debug\net8.0\Redes.AssemblyInfoInputs.cache
+C:\Users\Cliente\source\repos\Redes\Redes\obj\Debug\net8.0\Redes.AssemblyInfo.cs
+C:\Users\Cliente\source\repos\Redes\Redes\obj\Debug\net8.0\Redes.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\source\repos\Redes\Redes\obj\Debug\net8.0\Redes.dll
+C:\Users\Cliente\source\repos\Redes\Redes\obj\Debug\net8.0\refint\Redes.dll
+C:\Users\Cliente\source\repos\Redes\Redes\obj\Debug\net8.0\Redes.pdb
+C:\Users\Cliente\source\repos\Redes\Redes\obj\Debug\net8.0\Redes.genruntimeconfig.cache
+C:\Users\Cliente\source\repos\Redes\Redes\obj\Debug\net8.0\ref\Redes.dll
